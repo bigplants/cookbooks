@@ -1,3 +1,15 @@
 [submodule "nodebrew"]
 	path = nodebrew
 	url = git@github.com:linyows/nodebrew-cookbook.git
+[submodule "apt"]
+	path = apt
+	url = git@github.com:opscode-cookbooks/apt.git
+[submodule "build-essential"]
+	path = build-essential
+	url = git@github.com:opscode-cookbooks/build-essential.git
+[submodule "chef-mongodb"]
+	path = chef-mongodb
+	url = git@github.com:edelight/chef-mongodb.git
+[submodule "python"]
+	path = python
+	url = git@github.com:poise/python.git
