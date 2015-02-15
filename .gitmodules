@@ -1,0 +1,3 @@
+[submodule "nodebrew"]
+	path = nodebrew
+	url = git@github.com:linyows/nodebrew-cookbook.git
